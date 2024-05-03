@@ -45,7 +45,7 @@ To build SpringAPI, follow these steps:
 
 ```
 git clone https://github.com/benjaminhocking/SpringAPI.git
-cd SpringAPI
+cd SpringAPI/SpringAPI
 ```
 
 2. **Build the project using Maven:**
@@ -76,4 +76,3 @@ This documentation can be viewed using a Swagger UI at `localhost:8080/swagger-u
 
 - **Security Enhancements**: Implement authentication and authorization mechanisms using Spring Security to protect the API and manage access controls based on user roles.
 - **Advanced Search Capabilities**: Extend the UserRepository to support more complex queries, such as searching users by various criteria or implementing custom SQL queries with advanced filtering options.
-
